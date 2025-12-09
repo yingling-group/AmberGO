@@ -51,3 +51,4 @@ These materials support full reproducibility of the workflow.
 ## Citation
 
 If you use these models, scripts, or workflows, please cite both the associated manuscript and the HierGO method.
+[![DOI](https://zenodo.org/badge/1112799294.svg)](https://doi.org/10.5281/zenodo.17863270)
